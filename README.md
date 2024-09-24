@@ -1,4 +1,4 @@
-# news_appl
+# Firebase_auth
 in progress..
 
 ## Tech Stack
