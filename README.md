@@ -2,6 +2,6 @@
 in progress..
 
 ## Tech Stack
-Bloc. in progress <br>
+Bloc. <br>
 Go router <br>
 Authorization via firebase <br>
