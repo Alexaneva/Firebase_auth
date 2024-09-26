@@ -40,6 +40,7 @@ dependencies:
   go_router: ^14.2.7
   provider: ^6.1.2
   intl_phone_number_input: ^0.7.4
+  telephony: ^0.2.0
 
 
 dev_dependencies:
