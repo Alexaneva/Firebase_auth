@@ -1,7 +1,10 @@
 # Firebase_auth
-in progress..
 
 ## Tech Stack
-Bloc. <br>
-Go router <br>
-Authorization via firebase <br>
+
+firebase_core <br>
+firebase_auth <br>
+go_router <br>
+intl_phone_number_input <br>
+telephony <br>
+
